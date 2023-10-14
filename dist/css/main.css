@@ -1,0 +1,24 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+.produtos {
+  background-color: green;
+}
+
+body {
+  background-color: #ccc;
+}
+
+/*# sourceMappingURL=main.css.map */
